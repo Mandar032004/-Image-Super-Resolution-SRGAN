@@ -17,5 +17,5 @@ Metrics used:
 - Dataset: DIV2K
 
 ##  Author
-*Your Name*, B.Sc (Hons) AI & ML  
+Mandar Surve, B.Sc (Hons) AI & ML  
 Atlas SkillTech University
